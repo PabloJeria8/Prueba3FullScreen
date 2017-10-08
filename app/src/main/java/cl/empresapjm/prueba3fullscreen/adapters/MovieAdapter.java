@@ -30,6 +30,7 @@ public class MovieAdapter extends FirebaseRecyclerAdapter<Movie, MovieAdapter.Mo
         }
     }
 
+
     @Override
     protected void populateViewHolder(MovieHolder viewHolder, Movie model, int position) {
 
